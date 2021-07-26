@@ -8,6 +8,8 @@ Pull the repository into your device and run it as you used to run Django Applic
 
 -   (You also need to build React Application as it has been ignored in git and also need node_modules.)
 
+-   Note: You need to provide your Google Account Details in Settings File.
+
 OR You can simply go through the below link.
 
 ### Link: https://rgautam320-real-estate.herokuapp.com
